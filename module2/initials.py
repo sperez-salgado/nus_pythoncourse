@@ -1,7 +1,7 @@
 # Salvador Perez-Salgado
 # 2023-07-17
 
-# initials.py is an excersice from the Module 2 of the NUS Python for Analytics Course
+# initials.py is an exercise from the Module 2 of the NUS Python for Analytics Course
 # The assignment was to create a script that returns the initials from a name
 
 # We clean up the environment
